@@ -1,0 +1,130 @@
+C:\Users\TGSUser162\source\repos\Library Management System\Library Management System\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\TGSUser162\source\repos\Library Management System\Library Management System\bin\Debug\net8.0\appsettings.json
+C:\Users\TGSUser162\source\repos\Library Management System\Library Management System\bin\Debug\net8.0\Library Management System.staticwebassets.runtime.json
+C:\Users\TGSUser162\source\repos\Library Management System\Library Management System\bin\Debug\net8.0\Library Management System.exe
+C:\Users\TGSUser162\source\repos\Library Management System\Library Management System\bin\Debug\net8.0\Library Management System.deps.json
+C:\Users\TGSUser162\source\repos\Library Management System\Library Management System\bin\Debug\net8.0\Library Management System.runtimeconfig.json
+C:\Users\TGSUser162\source\repos\Library Management System\Library Management System\bin\Debug\net8.0\Library Management System.dll
+C:\Users\TGSUser162\source\repos\Library Management System\Library Management System\bin\Debug\net8.0\Library Management System.pdb
+C:\Users\TGSUser162\source\repos\Library Management System\Library Management System\obj\Debug\net8.0\Library Management System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TGSUser162\source\repos\Library Management System\Library Management System\obj\Debug\net8.0\Library Management System.AssemblyInfoInputs.cache
+C:\Users\TGSUser162\source\repos\Library Management System\Library Management System\obj\Debug\net8.0\Library Management System.AssemblyInfo.cs
+C:\Users\TGSUser162\source\repos\Library Management System\Library Management System\obj\Debug\net8.0\Library Management System.csproj.CoreCompileInputs.cache
+C:\Users\TGSUser162\source\repos\Library Management System\Library Management System\obj\Debug\net8.0\Library Management System.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\TGSUser162\source\repos\Library Management System\Library Management System\obj\Debug\net8.0\Library Management System.RazorAssemblyInfo.cache
+C:\Users\TGSUser162\source\repos\Library Management System\Library Management System\obj\Debug\net8.0\Library Management System.RazorAssemblyInfo.cs
+C:\Users\TGSUser162\source\repos\Library Management System\Library Management System\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\TGSUser162\source\repos\Library Management System\Library Management System\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\TGSUser162\source\repos\Library Management System\Library Management System\obj\Debug\net8.0\staticwebassets\msbuild.Library Management System.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\TGSUser162\source\repos\Library Management System\Library Management System\obj\Debug\net8.0\staticwebassets\msbuild.build.Library Management System.props
+C:\Users\TGSUser162\source\repos\Library Management System\Library Management System\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Library Management System.props
+C:\Users\TGSUser162\source\repos\Library Management System\Library Management System\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Library Management System.props
+C:\Users\TGSUser162\source\repos\Library Management System\Library Management System\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\TGSUser162\source\repos\Library Management System\Library Management System\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\TGSUser162\source\repos\Library Management System\Library Management System\obj\Debug\net8.0\scopedcss\bundle\Library Management System.styles.css
+C:\Users\TGSUser162\source\repos\Library Management System\Library Management System\obj\Debug\net8.0\scopedcss\projectbundle\Library Management System.bundle.scp.css
+C:\Users\TGSUser162\source\repos\Library Management System\Library Management System\obj\Debug\net8.0\Library Management System.dll
+C:\Users\TGSUser162\source\repos\Library Management System\Library Management System\obj\Debug\net8.0\refint\Library Management System.dll
+C:\Users\TGSUser162\source\repos\Library Management System\Library Management System\obj\Debug\net8.0\Library Management System.pdb
+C:\Users\TGSUser162\source\repos\Library Management System\Library Management System\obj\Debug\net8.0\Library Management System.genruntimeconfig.cache
+C:\Users\TGSUser162\source\repos\Library Management System\Library Management System\obj\Debug\net8.0\ref\Library Management System.dll
+C:\Users\TGSUser162\source\repos\Library Management System\Library Management System\obj\Debug\net8.0\Library Management System.csproj.AssemblyReference.cache
+C:\Users\TGSUser162\source\repos\Library Management System\Library Management System\bin\Debug\net8.0\Humanizer.dll
+C:\Users\TGSUser162\source\repos\Library Management System\Library Management System\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\TGSUser162\source\repos\Library Management System\Library Management System\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\TGSUser162\source\repos\Library Management System\Library Management System\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\TGSUser162\source\repos\Library Management System\Library Management System\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\TGSUser162\source\repos\Library Management System\Library Management System\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\TGSUser162\source\repos\Library Management System\Library Management System\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\TGSUser162\source\repos\Library Management System\Library Management System\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\TGSUser162\source\repos\Library Management System\Library Management System\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\TGSUser162\source\repos\Library Management System\Library Management System\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\TGSUser162\source\repos\Library Management System\Library Management System\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\TGSUser162\source\repos\Library Management System\Library Management System\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\TGSUser162\source\repos\Library Management System\Library Management System\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\TGSUser162\source\repos\Library Management System\Library Management System\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\TGSUser162\source\repos\Library Management System\Library Management System\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\TGSUser162\source\repos\Library Management System\Library Management System\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\TGSUser162\source\repos\Library Management System\Library Management System\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\TGSUser162\source\repos\Library Management System\Library Management System\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\TGSUser162\source\repos\Library Management System\Library Management System\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\TGSUser162\source\repos\Library Management System\Library Management System\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\TGSUser162\source\repos\Library Management System\Library Management System\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\TGSUser162\source\repos\Library Management System\Library Management System\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\TGSUser162\source\repos\Library Management System\Library Management System\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\TGSUser162\source\repos\Library Management System\Library Management System\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\TGSUser162\source\repos\Library Management System\Library Management System\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\TGSUser162\source\repos\Library Management System\Library Management System\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\TGSUser162\source\repos\Library Management System\Library Management System\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\TGSUser162\source\repos\Library Management System\Library Management System\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\TGSUser162\source\repos\Library Management System\Library Management System\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\TGSUser162\source\repos\Library Management System\Library Management System\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\TGSUser162\source\repos\Library Management System\Library Management System\bin\Debug\net8.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\TGSUser162\source\repos\Library Management System\Library Management System\bin\Debug\net8.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\TGSUser162\source\repos\Library Management System\Library Management System\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\TGSUser162\source\repos\Library Management System\Library Management System\obj\Debug\net8.0\Library Management System.csproj.CopyComplete
+D:\Library Management System\Library Management System\bin\Debug\net8.0\appsettings.Development.json
+D:\Library Management System\Library Management System\bin\Debug\net8.0\appsettings.json
+D:\Library Management System\Library Management System\bin\Debug\net8.0\Library Management System.staticwebassets.runtime.json
+D:\Library Management System\Library Management System\bin\Debug\net8.0\Library Management System.exe
+D:\Library Management System\Library Management System\bin\Debug\net8.0\Library Management System.deps.json
+D:\Library Management System\Library Management System\bin\Debug\net8.0\Library Management System.runtimeconfig.json
+D:\Library Management System\Library Management System\bin\Debug\net8.0\Library Management System.dll
+D:\Library Management System\Library Management System\bin\Debug\net8.0\Library Management System.pdb
+D:\Library Management System\Library Management System\bin\Debug\net8.0\Humanizer.dll
+D:\Library Management System\Library Management System\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\Library Management System\Library Management System\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\Library Management System\Library Management System\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Library Management System\Library Management System\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Library Management System\Library Management System\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Library Management System\Library Management System\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Library Management System\Library Management System\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\Library Management System\Library Management System\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Library Management System\Library Management System\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\Library Management System\Library Management System\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\Library Management System\Library Management System\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Library Management System\Library Management System\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\Library Management System\Library Management System\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\Library Management System\Library Management System\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\Library Management System\Library Management System\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\Library Management System\Library Management System\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Library Management System\Library Management System\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\Library Management System\Library Management System\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\Library Management System\Library Management System\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\Library Management System\Library Management System\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\Library Management System\Library Management System\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Library Management System\Library Management System\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Library Management System\Library Management System\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Library Management System\Library Management System\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Library Management System\Library Management System\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Library Management System\Library Management System\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Library Management System\Library Management System\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Library Management System\Library Management System\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Library Management System\Library Management System\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Library Management System\Library Management System\bin\Debug\net8.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Library Management System\Library Management System\bin\Debug\net8.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Library Management System\Library Management System\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Library Management System\Library Management System\obj\Debug\net8.0\Library Management System.csproj.AssemblyReference.cache
+D:\Library Management System\Library Management System\obj\Debug\net8.0\Library Management System.GeneratedMSBuildEditorConfig.editorconfig
+D:\Library Management System\Library Management System\obj\Debug\net8.0\Library Management System.AssemblyInfoInputs.cache
+D:\Library Management System\Library Management System\obj\Debug\net8.0\Library Management System.AssemblyInfo.cs
+D:\Library Management System\Library Management System\obj\Debug\net8.0\Library Management System.csproj.CoreCompileInputs.cache
+D:\Library Management System\Library Management System\obj\Debug\net8.0\Library Management System.MvcApplicationPartsAssemblyInfo.cache
+D:\Library Management System\Library Management System\obj\Debug\net8.0\Library Management System.RazorAssemblyInfo.cache
+D:\Library Management System\Library Management System\obj\Debug\net8.0\Library Management System.RazorAssemblyInfo.cs
+D:\Library Management System\Library Management System\obj\Debug\net8.0\staticwebassets.build.json
+D:\Library Management System\Library Management System\obj\Debug\net8.0\staticwebassets.development.json
+D:\Library Management System\Library Management System\obj\Debug\net8.0\staticwebassets\msbuild.Library Management System.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Library Management System\Library Management System\obj\Debug\net8.0\staticwebassets\msbuild.build.Library Management System.props
+D:\Library Management System\Library Management System\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Library Management System.props
+D:\Library Management System\Library Management System\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Library Management System.props
+D:\Library Management System\Library Management System\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Library Management System\Library Management System\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Library Management System\Library Management System\obj\Debug\net8.0\scopedcss\bundle\Library Management System.styles.css
+D:\Library Management System\Library Management System\obj\Debug\net8.0\scopedcss\projectbundle\Library Management System.bundle.scp.css
+D:\Library Management System\Library Management System\obj\Debug\net8.0\Library Management System.csproj.CopyComplete
+D:\Library Management System\Library Management System\obj\Debug\net8.0\Library Management System.dll
+D:\Library Management System\Library Management System\obj\Debug\net8.0\refint\Library Management System.dll
+D:\Library Management System\Library Management System\obj\Debug\net8.0\Library Management System.pdb
+D:\Library Management System\Library Management System\obj\Debug\net8.0\Library Management System.genruntimeconfig.cache
+D:\Library Management System\Library Management System\obj\Debug\net8.0\ref\Library Management System.dll
